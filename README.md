@@ -4,7 +4,7 @@ Designing and implementing a system that measures water flow and fills bottles w
 ## Block Diagram
 ![image](https://github.com/kmv19/Automatic-Water-Dispenser-System/assets/143374982/f76ae9f1-abfa-4167-a1c1-55caea85411e)
 
-##Steps Involved
+## Steps Involved
 1. Connect a 4x4 keypad to the digital pins of an Arduino UNO and display the key presses on the serial monitor. The "D" key will function as "Enter," and the "*" key will function as "STOP."
 2. Assemble a circuit on a breadboard that includes resistors, capacitors, and a MOSFET.
 3. Connect the relay module, DC pump, and water flow sensor to the Arduino.
