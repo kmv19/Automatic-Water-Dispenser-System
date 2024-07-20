@@ -23,3 +23,4 @@ Designing and implementing a system that measures water flow and fills bottles w
 4. Attach the outlet of the DC pump to the inlet of the water flow sensor. The outlet of the water flow sensor will be used by the user to fill bottles.
 5. By integrating all components, we will create an automatic water dispenser that allows the user to input the desired amount of water, which will then be dispensed automatically.
 
+The video of the demonstration is given below : https://drive.google.com/drive/folders/1nbS_aFuos5GqCNPbZP92r76DbVgaj0Ew?usp=sharing
